@@ -1,0 +1,4 @@
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\bin\Release\Modelo.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\bin\Release\Modelo.pdb
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\obj\Release\Modelo.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\obj\Release\Modelo.pdb

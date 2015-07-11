@@ -1,0 +1,5 @@
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

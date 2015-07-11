@@ -1,0 +1,7 @@
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\DAL\bin\Release\DAL.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\DAL\bin\Release\DAL.pdb
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\DAL\bin\Release\Modelo.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\DAL\bin\Release\Modelo.pdb
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\DAL\obj\Release\DAL.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\DAL\obj\Release\DAL.pdb

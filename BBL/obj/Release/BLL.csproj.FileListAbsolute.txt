@@ -1,0 +1,9 @@
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\bin\Release\BLL.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\bin\Release\BLL.pdb
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\bin\Release\DAL.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\bin\Release\Modelo.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\bin\Release\DAL.pdb
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\bin\Release\Modelo.pdb
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\obj\Release\BLL.dll
+C:\Users\Dener\Documents\Projetos - Exemplo\Projetos C# Exemplos\ControleEstoque\BBL\obj\Release\BLL.pdb
