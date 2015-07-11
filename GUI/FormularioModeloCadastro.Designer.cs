@@ -133,11 +133,13 @@
             this.Controls.Add(this.pnlBotoes);
             this.Controls.Add(this.pnlDados);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.KeyPreview = true;
             this.MaximizeBox = false;
             this.Name = "FormularioModeloCadastro";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Modelo de formulario de cadastro";
             this.Load += new System.EventHandler(this.FormularioModeloCadastro_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FormularioModeloCadastro_KeyDown);
             this.pnlBotoes.ResumeLayout(false);
             this.ResumeLayout(false);
 
