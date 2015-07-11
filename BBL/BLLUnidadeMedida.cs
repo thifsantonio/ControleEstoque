@@ -20,13 +20,21 @@ namespace BLL
 
         private bool UnidadeMedidaExiste(ModeloUnidadeMedida um) 
         {
+            bool retorno;
             DataTable tabela = new DataTable();
             tabela = this.Localizar(um.UnidadeMedidaNome);
 
             if (tabela.Rows.Count > 0)
-                return true;
+            {
+                if (tabela.Rows[0]["umed_nome"].ToString().ToUpper() == um.UnidadeMedidaNome.ToUpper())
+                    retorno = true;
+                else
+                    retorno = false;                
+            }
             else
-                return false;            
+                retorno = false;
+
+            return retorno;
         }
 
         public void Incluir(ModeloUnidadeMedida um)
