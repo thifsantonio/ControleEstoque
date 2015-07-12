@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ModeloCategoria.cs" />
+    <Compile Include="ModeloProduto.cs" />
     <Compile Include="ModeloSubCategoria.cs" />
     <Compile Include="ModeloUnidadeMedida.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
